@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("nesc/--Nescoroco script's hub--/oroco", "GrapeTheme")
+local Window = Library.CreateLib("Rey hub X Spanish", "GrapeTheme")
 
 -- SCRIPTS HECHO TOTALMENTE POR NESCOROCO, SUBIDO ORIGINALMENTE EN SCRIPT HUB
 
@@ -9,7 +9,7 @@ local Window = Library.CreateLib("nesc/--Nescoroco script's hub--/oroco", "Grape
 
 -- SCRIPTBLOX: https://scriptblox.com/profile
 
--- ROBLOX: https://www.roblox.com/users/2399670479/profile
+-- ROBLOX: https://www.roblox.com/users/1/profile
 
 -- Menu
 local Main = Window:NewTab("Destruction Simulator")
@@ -66,7 +66,7 @@ local Main2Section = Main2:NewSection("SPANISH HUB'S")
 
 Main2Section:NewButton("Spanish Hub V1", "God HUB", function()
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("SPANISH HUB - nescoroco", "DarkTheme")
+local Window = Library.CreateLib("SPANISH HUB - REY", "DarkTheme")
 
 -- SCRIPTS HECHO TOTALMENTE POR NESCOROCO, SUBIDO ORIGINALMENTE EN SCRIPTHUB
 
