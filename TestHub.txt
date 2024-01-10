@@ -1,19 +1,11 @@
--- Discord: https://discord.gg/yXbEmaX6
-
--- Youtube: https://www.youtube.com/channel/UCr_uZrXrbk9dfWoLXgOLO1g
-
--- Roblox profile: https://www.roblox.com/users/2399670479/profile
-
---Nescoroco script's hub - TEST -
-
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("nesc/--Nescoroco script's hub--/oroco", "GrapeTheme")
 
 -- SCRIPTS HECHO TOTALMENTE POR NESCOROCO, SUBIDO ORIGINALMENTE EN SCRIPT HUB
 
--- YOUTUBE: https://www.youtube.com/@Nescoroco/videos
+-- YOUTUBE: No YouTube
 
--- DISCORD: https://discord.gg/64pnKhQj
+-- DISCORD: No Discord
 
 -- SCRIPTBLOX: https://scriptblox.com/profile
 
