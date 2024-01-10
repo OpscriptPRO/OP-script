@@ -6708,3 +6708,29 @@ end)
 -- Youtube: https://www.youtube.com/channel/UCr_uZrXrbk9dfWoLXgOLO1g
 
 -- Roblox profile: https://www.roblox.com/users/2399670479/profile
+
+--Toggle
+local ToggleGui = Instance.new("ScreenGui")
+local Toggle = Instance.new("TextButton")
+local UICorner = Instance.new("UICorner")
+
+--Properties
+ToggleGui.Name = "Toggle Gui"
+ToggleGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ToggleGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ToggleGui.ResetOnSpawn = false
+
+UICorner.Parent = Toggle
+Toggle.Name = "Toggle"
+Toggle.Parent = ToggleGui
+Toggle.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Toggle.Position = UDim2.new(0, 0, 0.454706937, 0)--position of the toggle
+Toggle.Size = UDim2.new(0, 85, 0, 39)--size of the toggle
+Toggle.Font = Enum.Font.SourceSans
+Toggle.Text = "Rey hub"--name of the toggle
+Toggle.TextColor3 = Color3.fromRGB(255, 255, 255)
+Toggle.TextSize = 19.000
+Toggle.Draggable = true
+Toggle.MouseButton1Click:connect(function()
+  Library:ToggleUI()
+end)
