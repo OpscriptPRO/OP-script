@@ -65,7 +65,7 @@ local Main2Section = Main2:NewSection("SPANISH HUB'S")
 --11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
 
 Main2Section:NewButton("Spanish Hub V1", "God HUB", function()
-    local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+    local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local Window = Library.CreateLib("SPANISH HUB - REY", "DarkTheme")
 
 -- SCRIPTS HECHO TOTALMENTE POR NESCOROCO, SUBIDO ORIGINALMENTE EN SCRIPTHUB
@@ -893,7 +893,7 @@ MainSection:NewButton("Spanish Hub V2", "God HUB", function()
 ]]
 -- Spanish hub
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local Window = Library.CreateLib("SPANISH HUB - Rey", "DarkTheme")
 
 -- SCRIPTS HECHO TOTALMENTE POR NESCOROCO, SUBIDO ORIGINALMENTE EN SCRIPTHUB
@@ -1883,7 +1883,7 @@ end)
 MainSection:NewButton("Spanish Hub V3", "God HUB", function()
     -- Spanish hub
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local Window = Library.CreateLib("🟦⬜⭐⬜🟦🟦⬜⬜⭐SPANISH HUB - Rey⭐⬜⬜🟦🟦⬜⭐⬜🟦", "Midnight")
 
 -- SCRIPTS HECHO TOTALMENTE POR NESCOROCO, SUBIDO ORIGINALMENTE EN SCRIPTHUB
@@ -3193,7 +3193,7 @@ end)
 MainSection:NewButton("Spanish Hub V3", "God HUB", function()
     -- Spanish hub
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local Window = Library.CreateLib("🟦⬜⭐⬜🟦🟦⬜⬜⭐SPANISH HUB - Rey⭐⬜⬜🟦🟦⬜⭐⬜🟦", "Midnight")
 
 -- SCRIPTS HECHO TOTALMENTE POR NESCOROCO, SUBIDO ORIGINALMENTE EN SCRIPTHUB
@@ -4533,7 +4533,7 @@ MainSection:NewButton("Spanish Hub V4", "God HUB", function()
 
 
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local Window = Library.CreateLib("_🟩🇨🇴⬛🇲🇽⬛🟩🇵🇪⬛🐍SPANISH HUB - Rey🐍⬛🇪🇸🟩🇻🇪⬛🇦🇷⬛🟩_", "Serpent")
 
 -- SCRIPTS HECHO TOTALMENTE POR NESCOROCO, SUBIDO ORIGINALMENTE EN SCRIPT HUB
