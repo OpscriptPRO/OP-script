@@ -4,3 +4,6 @@ local main = library:CreateWindow("MoonLIB", "#b36419", 9160626035)
 
 main:CreateTab("Home")
 main:CreateLabel("Test", "Home")
+main:CreateButton("Button", "Home", function()
+   loadstring(game:HttpGet('https://pastebin.com/raw/zcrgCB1P'))()
+end)
