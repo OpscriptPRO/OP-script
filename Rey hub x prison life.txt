@@ -1,0 +1,192 @@
+-- Moveable Work At Moblie/PC 
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Mobile%20Friendly%20Orion')))()
+local Window = OrionLib:MakeWindow({Name = "REY HUB V PRISON LIFE", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+
+local Tab = Window:MakeTab({
+	Name = "👮Prision Life👮",
+	Icon = "rbxassetid://16973767875",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "🔓🔓🔓NO KEY🔓🔓🔓"
+})
+
+Tab:AddButton({
+	Name = "🇦🇷MILEI SIMULATOR🔝",
+	Callback = function()
+        loadstring(game:HttpGet("https://paste.myconan.net/489138.txt", true))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🔴FE BALL ROLL⭕",
+	Callback = function()
+        loadstring(game:HttpGet("https://pastebin.com/raw/BZr9bGDy", true))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "💣Impact Hub💥",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobExploits/scripts/main/MainScript.lua"))();
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🐯Tiger Admin (THE BEST ONE)🐅",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/dalloc2/Roblox/main/TigerAdmin.lua"))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "👥Tween teleporters🕳️",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/main/TweenTeleporter"))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🚗Fly Car🪽",
+	Callback = function()
+        loadstring(game:HttpGet("https://abre.ai/fly-gui"))();
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🫥BEST HITBOX SCRIPT⏹️",
+	Callback = function()
+        _G.config = {
+            HeadSize = 20,
+            TeamCheck = false,
+            TargetPart = 'Head', -- 'HumanoidRootPart',
+            Disabled = true,
+            Transparency = 0.7,
+            Color = BrickColor.new("Really blue"),
+            Material = "Neon"
+            }
+            
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/D0LLYNHO/Hitbox/main/Universal", true))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+local Section = Tab:AddSection({
+	Name = "🔒🔒🔒WITH KEY🔒🔒🔒"
+})
+
+Tab:AddButton({
+	Name = "🔥VG Hub🎆",
+	Callback = function()
+        getgenv().KeySystem = false
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+      		print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🔫Trolling Hub🤭",
+	Callback = function()
+        loadstring(game:HttpGet("https://pastebin.com/raw/hbNFKuSh"))()
+      		print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🤑Shife Hub | Universal🫰",
+	Callback = function()
+        loadstring(game:HttpGet("https://pastebin.com/raw/FrYA0LtD"))()
+      		print("Executing script.....⌛")
+  	end    
+})
+
+local Section = Tab:AddSection({
+	Name = "🌎Spanish hub's🌎"
+})
+
+Tab:AddButton({
+	Name = "🔓🌎Spanish hub V1🌎🔓 - Keyless",
+	Callback = function()
+        loadstring(game:HttpGet("https://paste.myconan.net/494165.txt", true))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🔓🌎Spanish hub V2🌎🔓 - Keyless",
+	Callback = function()
+        loadstring(game:HttpGet("https://paste.myconan.net/494166.txt", true))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🔓🌎Spanish hub V3🌎🔓 - Keyless",
+	Callback = function()
+        loadstring(game:HttpGet("https://paste.myconan.net/494168.txt", true))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🔓🌎Spanish hub V4🌎🔓 - Keyless",
+	Callback = function()
+        loadstring(game:HttpGet("https://paste.myconan.net/494220.txt", true))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🔓🌎Spanish hub V5🌎🔓 - Keyless",
+	Callback = function()
+        loadstring(game:HttpGet("https://paste.myconan.net/494221.txt", true))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🔒🌎Spanish hub V6🌎🔒 - With Key",
+	Callback = function()
+        loadstring(game:HttpGet(('https://paste.myconan.net/489720.txt')))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🔒🌎Spanish hub V7🌎🔒 - With Key",
+	Callback = function()
+        loadstring(game:HttpGet("https://paste.myconan.net/489719.txt"))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🔒🌎Spanish hub V8🌎🔒 - With Key",
+	Callback = function()
+        loadstring(game:HttpGet("https://paste.myconan.net/489718.txt"))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🔒🌎Spanish hub V9🌎🔒 - With Key",
+	Callback = function()
+        loadstring(game:HttpGet("https://paste.myconan.net/489717.txt"))()
+        print("Executing script.....⌛")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "🔒🌎Spanish hub V10🌎🔒 - With Key",
+	Callback = function()
+        loadstring(game:HttpGet("https://paste.myconan.net/489741.txt"))()
+        print("Executing script.....⌛")
+  	end    
+})
