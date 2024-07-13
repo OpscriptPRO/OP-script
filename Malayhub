@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({Name = "BlueRed Hub | Universal V17", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "Malay Hub | Universal V1", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 --Tabs
 
@@ -11,7 +11,7 @@ local Tab1 = Window:MakeTab({
 })
 
 local Tab2 = Window:MakeTab({
-	Name = "Muder Mystery",
+	Name = "Murder Mystery",
 	Icon = "rbxassetid://10734934585",
 	PremiumOnly = false
 })
@@ -73,19 +73,19 @@ local Tab11 = Window:MakeTab({
 --Sections
 
 local Section = Tab1:AddSection({
-	Name = "Created By Shife"
+	Name = "Created By Den"
 })
 
 local Section = Tab1:AddSection({
-	Name = "@ShifeScripter In Youtube!"
+	Name = "@REYVINGS In Roblox"
 })
 
 local Section = Tab1:AddSection({
-	Name = "V17 Uploaded 11 Jule, 2024"
+	Name = "V1 Uploaded 13 Jule, 2024"
 })
 
 local Section = Tab2:AddSection({
-	Name = "Muder Mystery Scripts"
+	Name = "Murder Mystery Scripts"
 })
 
 local Section = Tab3:AddSection({
@@ -127,17 +127,17 @@ local Section = Tab11:AddSection({
 --Buttons Tab 1 main
 
 Tab1:AddButton({
-	Name = "Copy Telegram Channel",
+	Name = "Copy roblox name",
 	Callback = function()
-	setclipboard("https://t.me/ShifeScripter")
-      		print("Copy Discord Server")
+	setclipboard("REYVINGS")
+      		print("Copy roblox name")
   	end    
 })
 
 --Buttons Tab 2 mm2
 
 Tab2:AddButton({
-	Name = "Muder Mystery Script 1",
+	Name = "Murder Mystery Script 1",
 	Callback = function()
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Murder'))()
       		print("MM2 Script 1")
@@ -213,23 +213,15 @@ Tab4:AddButton({
 })
 
 Tab4:AddButton({
-	Name = "Legends Of Speed Script 3 (ByShife)",
+	Name = "Legends Of Speed Script 3",
 	Callback = function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/xa2vDTCc"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHublegendsofspeed"))()
       		print("Script 3")
   	end    
 })
 
 Tab4:AddButton({
-	Name = "Legends Of Speed Script 4",
-	Callback = function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHublegendsofspeed"))()
-      		print("Script 4")
-  	end    
-})
-
-Tab4:AddButton({
-	Name = "Legends Of Speed Script 5 (PC Only)",
+	Name = "Legends Of Speed Script 4 (PC Only)",
 	Callback = function()
 	loadstring(game:HttpGet(("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Legends%20Of%20Speed/Script.lua"),true))()
       		print("Script 4")
@@ -237,10 +229,10 @@ Tab4:AddButton({
 })
 
 Tab4:AddButton({
-	Name = "Legends Of Speed Script 6",
+	Name = "Legends Of Speed Script 5",
 	Callback = function()
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/PhoenixxxTS/Scripts/main/LegendsOfSpeed'))()
-      		print("Script 4")
+      		print("Script 5")
   	end    
 })
 
@@ -326,7 +318,7 @@ Tab7:AddButton({
 	Name = "PS99 Script 2",
 	Callback = function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/HydroStreamzOfficial/OfficialHub-/main/HydroStreamz"))()
-      		print("Script 1")
+      		print("Script 2")
   	end    
 })
 
@@ -334,7 +326,7 @@ Tab7:AddButton({
 	Name = "Fly Gui V3",
 	Callback = function()
 	loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
-      		print("Script 1")
+      		print("Script fly")
   	end    
 })
 
