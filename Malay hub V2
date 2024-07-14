@@ -23,7 +23,7 @@ local plrcount = #plrs:GetPlayers()
 
 -- Home
 local Tab = Window:NewTab("Home")
-local Section1 = Tab:NewSection("Welcome: " .. plrname .. " To: Rey hub")
+local Section1 = Tab:NewSection("Welcome: " .. plrname .. " To: Malay hub")
 local Section2 = Tab:NewSection("Game Name: " .. GameName)
 local Section3 = Tab:NewSection("Game Id: " .. GameId)
 local Section4 = Tab:NewSection("Name: " .. plrname)
