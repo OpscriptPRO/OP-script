@@ -95,7 +95,7 @@ loadstring(game:HttpGet('https://pastebin.com/raw/WQ9NPeDS'))()
 print("Clicked")
 end)
 
-Section:NewButton("ShiftLock for mobile", "ButtonInfo", function()
+Section:NewButton("Esp [OP]", "ButtonInfo", function()
 loadstring(game:HttpGet("https://rentry.co/projektembuspandang/raw"))();
 print("Clicked")
 end)
@@ -1165,7 +1165,7 @@ local UIGradient_2 = Instance.new("UIGradient")
 local UITextSizeConstraint = Instance.new("UITextSizeConstraint")
 local UITextSizeConstraint_2 = Instance.new("UITextSizeConstraint")
 
-ChadWaterMark.Name = "Rey hub"
+ChadWaterMark.Name = "Malay hub V2"
 ChadWaterMark.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 ChadWaterMark.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 ChadWaterMark.ResetOnSpawn = false
